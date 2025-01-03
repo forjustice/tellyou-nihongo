@@ -63,7 +63,7 @@
     "stylelint-config-standard-scss": "^5.0"
   },
   "otherDependencies": {
-    "hugo": "0.92.1"
+    "hugo": "0.140.2"
   },
   "dependencies": {
     "tencentcloud-sdk-nodejs": "^4.0.449"
